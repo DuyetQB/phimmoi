@@ -14,7 +14,6 @@ export function useFetch<TResult>(
       try {
         setResult({ ...result, loading: true });
         const data = await fetchFn();
-        console.log("data",data);
         
         setResult({ data, error: undefined, loading: false });
       } catch (error) {

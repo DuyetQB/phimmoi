@@ -15,4 +15,5 @@
 
 html {
   font-family: 'Onest', sans-serif;
+  background-color: var(--black);
 }

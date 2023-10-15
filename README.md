@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Here's a video walkthrough of implemented user stories
+
+(https://www.loom.com/share/e2d42e72d8f04311a199849620754923?sid=115c995c-57b8-4148-abb2-2eb81ba86e81)
+
+# Open live project in 
+(https://phimmoi-ten.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:

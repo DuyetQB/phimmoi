@@ -7,7 +7,12 @@ function Search() {
 
   const handleSearchMovie = async (e: any) => {
     const result = await onSearchMovie(e?.target?.value);
-    dispatch({ type: "search", query: e.target.value, data: result.results, currentPage:1});
+    dispatch({
+      type: "search",
+      query: e.target.value,
+      data: result.results,
+      currentPage: 1,
+    });
   };
   return (
     <div className="wrapinput">

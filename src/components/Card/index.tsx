@@ -49,9 +49,7 @@ const Card = ({ data, loading }: IBaseCard) => {
                   />
 
                   <Link to={`/movie-detail/${item?.id}`} className="card__link">
-                    <span style={{ opacity: 1 }}>
-                      {item?.title}
-                    </span>
+                    <span style={{ opacity: 1 }}>{item?.title}</span>
                   </Link>
                 </motion.div>
               </div>
