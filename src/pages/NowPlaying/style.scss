@@ -1,0 +1,14 @@
+
+.wrap {
+  padding: 2rem;
+  background-color: var(--bgblack);
+  height:100%;
+  color: var(--white);
+
+  &__title {
+    font-size: 1.6em;
+    text-align: center;
+    padding:2rem 0;
+    color:rgb(147 197 253/1)
+  }
+}
