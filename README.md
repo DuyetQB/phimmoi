@@ -6,6 +6,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 (https://www.loom.com/share/e2d42e72d8f04311a199849620754923?sid=115c995c-57b8-4148-abb2-2eb81ba86e81)
 
+# What I've done
+
++ List movie
++ Search movie
++ Pagination
++ Responsive mobile
++ View Detail movie
+
+# What I haven't done
+
++ Watch movie
+
+
+# I build on
+
++ Vercel
+
+
 # Open live project in 
 (https://phimmoi-ten.vercel.app/)
 
